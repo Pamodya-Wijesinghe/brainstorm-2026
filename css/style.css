@@ -516,7 +516,8 @@ img {
 }
 
 .committee-card {
-    width: 280px;
+    width: 100%;
+    max-width: 280px;
     text-align: center;
     padding: 2.5rem 1.5rem;
 }
@@ -656,7 +657,8 @@ img {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    width: 320px;
+    width: 100%;
+    max-width: 320px;
     padding: 2rem;
 }
 
